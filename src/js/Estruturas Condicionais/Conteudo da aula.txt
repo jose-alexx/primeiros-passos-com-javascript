@@ -1,0 +1,40 @@
+Conceito de Boolean e Condicionais
+
+Condicionais são variáveis booleanas(verdadeiro e falso).
+Utilizamos para ver se uma condição é verdadeira ou falsa(0 ou 1. Podem guardar essas estruturas condicionais
+
+utilizamos o prefixo "is" ou "eh" ao darmos um nome a esse tipo de variável.
+
+Exemplo com resto de Divisão
+
+% - o operador(porcentagem) do javascript que consegue retornar o resto de uma divisão.
+
+Com variáveis booleanas podemos pegar resultados lógicos(verdadeiros ou falsos) de operações.
+
+Estruturas condicionais Com if e else
+
+operador "se" só é possível entrar nele caso a informação seja verdadeira
+
+if (se a informação for verdadeira(true ou 1)) {
+   executa esse código
+   console.log('Executando!');
+}
+
+Se a informação for falsa ela e direcionada para o operador else (se não)
+
+Estrutura condicionais com else if
+
+podemos usar o else if (se não se) quando queremos trabalhar outras condições dentro de um if
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+Console e Como declarar Variáveis
+
+console.log('Imprimir algo'); <!--  Imprime as instruções no console -->
+
+Variáveis são espaços na memoria para guardar algum tipo de valor.
+
+let variável = 100; <!-- let é um tipo de variável onde podemos mudar o valor presente nela em algum momento do código -->
+
+const variável pi = 3.14; <!-- Uma vez de declarada não pode trocar o valor presente nela -->
+
+Diferenças entre Variáveis e tipos de operadores:
+
+- Operadores aritimetricos
+
++ - Operador de adição
+- - Operador de subtração
+* - Operador de multiplicação
+/ - Operador de divisão
+
+- Operadores de atribuiçãp
+
+= - Operadores de atribuição
+
+- Operadores booleanos
+
+> - maior que
+>= - maior igual
+< - menor que
+<= - menor igual
+! - Operador de negação
+
+- Operadores de igualdade 
+
+=== - igual
+== - igual, mas iguinora o 
+
+- Operadores Logicos
+
+&& - e
+|| - ou
+
+tipo da variavel
+
+Exercício Cálculo de Valor de uma viagem
+
+Nomes de variáveis começam com letra minúscula e utilizamos outras palavras com letra maiúsculas(camel case).
+
+Na programação a maioria da coisas é definida em inglês, e no inglês os números decimais são utilizados com os pontos.
+
+O programa é nada mais que um conjunto de instruções para o computador. E os programadores são aqueles que pegam problemas da vida real e abstraem(programa) para que o computador entenda e execute.
+
+
+
+
+
